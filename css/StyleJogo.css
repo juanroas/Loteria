@@ -1,0 +1,55 @@
+﻿body {
+
+a{
+    color: dimgrey;
+    margin: 5px;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+}
+
+.tudo1 {
+    border: 1px solid #086898;
+    width: 15%;
+    margin-top: 20px;
+    float: left;
+}
+
+.tudo2 {
+    border: 1px solid #086898;
+    width: 100%;
+    margin-top: 20px;
+    float: left;
+}
+
+.tudo3 {
+    border: 1px solid #086898;
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.tudo4 {
+    border: 1px solid #086898;
+    margin-top: 20px;
+    height: 79px;
+    width: 179px;
+    float: left;
+}
+
+.tudo5 {
+    border: 1px solid #086898;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 80%;
+    position: relative;
+    float: left;
+}
+
+.sorteio {
+    width: 26px;
+}
+}
